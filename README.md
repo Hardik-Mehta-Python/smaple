@@ -1,3 +1,4 @@
 # smaple
 this is my first git repository
-Author - Hardik Mehta
+<br>
+Author - Hardik Mehta(python)
